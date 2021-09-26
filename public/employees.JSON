@@ -118,5 +118,41 @@
       "available": true,
       "mail":"robert_Downey_Jr@outlook.com",
       "img": "https://pbs.twimg.com/media/DZ2sY50XUAEKyTs.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Igor G.",
+      "designation": "Web Designer",
+      "skill":"Expert",
+      "contactNo": "865653287",
+      "adress": "India",
+      "salary": 70000,
+      "available": true,
+      "mail":"igor@outlook.com",
+      "img": "https://www.upwork.com/profile-portraits/c1b7rbSxmGcLtrBme1Kc3nP2q4fFyXX8qT8JtqK-v-6F7HG2zC19fZz-DSb5qRS5zT"
+    },
+    {
+      "id": 23,
+      "name": "Sheree",
+      "designation": "React Developer",
+      "skill":"Expert",
+      "contactNo": "99732051",
+      "adress": "UK",
+      "salary": 50000,
+      "available": true,
+      "mail":"sheree@outlook.com",
+      "img": "https://www.upwork.com/profile-portraits/c1lmUTdtCzf5P9TOPkFZlBWado0TvHFRxBoEPcZ98HJ3q8xiOoOPkUfT5QYWiAKCzP"
+    },
+    {
+      "id": 24,
+      "name": "Eugeny",
+      "designation": "Front End Developer",
+      "skill":"Expert",
+      "contactNo": "77990518",
+      "adress": "Ukraine",
+      "salary": 40000,
+      "available": true,
+      "mail":"eugeny19@outlook.com",
+      "img": "https://www.upwork.com/profile-portraits/c1c20dYrYfLEzpMhpc73wZDldKFPRUIkojpR0dmJIriWusmYG7Rrp46UkNJaYywkME"
     }
   ]
