@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Robert Downey Jr",
+      "age": 56,
+      "adress": "New York City, New York",
+      "salary": 66000000,
+      "available": true,
+      "img": "https://pbs.twimg.com/media/DZ2sY50XUAEKyTs.jpg"
+    },
+    {
+      "name": "Jude Law",
+      "age": 48,
+      "adress": "London, United Kingdom",
+      "salary": 45000000,
+      "available": false,
+      "img": "https://media.vogue.co.uk/photos/5f05b63c3c82f3e0c16c58bb/2:3/w_2560%2Cc_limit/GettyImages-1165635354.jpg"
+    },
+    {
+      "name": "Rachel McAdams",
+      "age": 42,
+      "adress": "Canada",
+      "salary": 25000000,
+      "available": true,
+      "img": "https://cdn.britannica.com/w:400,h:300,c:crop/83/147883-050-3EB5D697/Rachel-McAdams-2011.jpg"
+    },
+    {
+      "name": "Kelly Reilly",
+      "age": 44,
+      "adress": "United Kingdom",
+      "salary": 5000000,
+      "available": true,
+      "img": "https://m.media-amazon.com/images/M/MV5BNjgzMzk2MjEzM15BMl5BanBnXkFtZTgwMTkzMDEwMTE@._V1_UY1200_CR84,0,630,1200_AL_.jpg"
+    },
+    {
+      "name": "Mark Strong",
+      "age": 58,
+      "adress": "London",
+      "salary": 9000000,
+      "available": false,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mark_Strong.jpg/525px-Mark_Strong.jpg"
+    },
+    {
+      "name": "Eddie Marsan",
+      "age": 53,
+      "adress": "United Kingdom",
+      "salary": 800000,
+      "available": true,
+      "img": "https://marriedbiography.com/wp-content/uploads/2018/09/Eddie-Marsan-1.jpg"
+    },
+    {
+      "name": "Geraldine James",
+      "age": 71,
+      "adress": "United Kingdom",
+      "salary": 33000000,
+      "available": true,
+      "img": "https://superstarsbio.com/wp-content/uploads/2019/09/Gerames.jpg"
+    },
+    {
+      "name": "Robert Maillet",
+      "age": 51,
+      "adress": "Canada",
+      "salary": 12000000,
+      "available": true,
+      "img": "https://movietrailerdaddy.com/wp-content/uploads/2019/04/Robert-Maillet-298x298.jpg"
+    },
+    {
+      "name": "Jared Harris",
+      "age": 60,
+      "adress": "London",
+      "salary": 8000000,
+      "available": true,
+      "img": "https://m.media-amazon.com/images/M/MV5BODgyOTdjZjAtYmI2MS00ZjdhLTk0NzMtNGRhYjI4NTE3MjBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY317_CR51,0,214,317_AL_.jpg"
+    },
+    {
+      "name": "William Houston",
+      "age": 53,
+      "adress": "United Kingdom",
+      "salary": 79568,
+      "available": true,
+      "img": "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/p232523/WilliamHouston.jpg"
+    }
+  ]
