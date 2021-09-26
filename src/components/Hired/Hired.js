@@ -10,10 +10,10 @@ const Hired = (props) => {
     }
     return (
         <div className="hire-details">
-            <div className="style-payment">
-            <h2 >Payment Summary</h2>
+            <div className="style-cost">
+            <h2 >Cost Summary</h2>
             <h3>Hired Developer: {props.hire.length}</h3>
-            <h3>Total Payment: ${total}</h3>
+            <h3>Total Salaries: ${total}</h3>
             </div>
             {
                   hire.map( hiredEmployee => <HiredEmployess hiredEmployee= {hiredEmployee} ></HiredEmployess>)

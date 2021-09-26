@@ -18,7 +18,7 @@ const Employee = (props) => {
                 <p><FontAwesomeIcon icon={faPhoneAlt}/>  {contactNo}</p>
                 <p><FontAwesomeIcon icon={faEnvelope}/>      {mail}</p>
                 <button className="hire-btn"
-                onClick={() => props.handleHireBtn(props.employee)} > Hire <FontAwesomeIcon icon= {faArrowRight} /></button>
+                onClick={() => props.handleHireBtn(props.employee)} >Hire Now </button>
                 <br />
                 
               

@@ -1,17 +1,5 @@
 [
     {
-      "id": 11,
-      "name": "Robert Downey Jr",
-      "designation": "Web Developer",
-      "skill":"Expert",
-      "contactNo": "998653287",
-      "adress": "New York",
-      "salary": 100000,
-      "available": true,
-      "mail":"robert_Downey_Jr@outlook.com",
-      "img": "https://pbs.twimg.com/media/DZ2sY50XUAEKyTs.jpg"
-    },
-    {
       "id": 12,
       "name": "Jude Law",
       "designation": "UI/UX Developer",
@@ -99,10 +87,10 @@
       "id": 19,
       "name": "Jared Harris",
       "designation": "Web Developer",
-      "skill":"Advanced beginne",
+      "skill":"Expert",
       "contactNo": "32198562",
       "adress": "London",
-      "salary": 35000,
+      "salary": 95000,
       "available": true,
       "mail":"Jared_Harris@outlook.com",
       "img": "https://m.media-amazon.com/images/M/MV5BODgyOTdjZjAtYmI2MS00ZjdhLTk0NzMtNGRhYjI4NTE3MjBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY317_CR51,0,214,317_AL_.jpg"
@@ -111,12 +99,24 @@
       "id": 20,
       "name": "William Houston",
       "designation": "Web Developer",
-      "skill":"Advanced beginne",
+      "skill":"Expert",
       "contactNo": "028937236",
       "adress": "United Kingdom",
-      "salary": 45000,
+      "salary": 55000,
       "available": true,
       "mail":"William_Houston@outlook.com",
       "img": "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/p232523/WilliamHouston.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Robert Downey Jr",
+      "designation": "Web Developer",
+      "skill":"Expert",
+      "contactNo": "998653287",
+      "adress": "New York",
+      "salary": 100000,
+      "available": true,
+      "mail":"robert_Downey_Jr@outlook.com",
+      "img": "https://pbs.twimg.com/media/DZ2sY50XUAEKyTs.jpg"
     }
   ]
