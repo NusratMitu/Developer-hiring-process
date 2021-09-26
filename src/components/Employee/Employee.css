@@ -1,15 +1,17 @@
 .employee {
-  border: 2px dotted goldenrod;
-  /* background-color: goldenrod; */
-  border-radius: 15px;
+  border: 2px dotted lightgray;
+  border-radius: 10px;
   padding: 10px;
-  width: 250px;
+  width: 260px;
 }
 .employee img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 2px lightgray double;
+    border: 1px lightgray solid;
+}
+.designation{
+    color: gray;
 }
 .hire-btn {
     background-color: goldenrod;
@@ -22,4 +24,5 @@
     font-size: larger;
     font-weight: 600;
     cursor: pointer;
+    margin-bottom: 10px;
 }

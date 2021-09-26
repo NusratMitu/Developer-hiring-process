@@ -1,0 +1,12 @@
+.hired-employees {
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+    padding: 10px;
+    margin: 10px;
+}
+.hired-employees img {
+    width: 60px;
+    height: 60px;
+    padding-right: 20px;
+}
