@@ -1,0 +1,25 @@
+.employee {
+  border: 2px dotted goldenrod;
+  /* background-color: goldenrod; */
+  border-radius: 15px;
+  padding: 10px;
+  width: 250px;
+}
+.employee img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px lightgray double;
+}
+.hire-btn {
+    background-color: goldenrod;
+    /* background-color: black; */
+    color: white;
+    /* color: goldenrod; */
+    border: 1px solid goldenrod;
+    border-radius: 10px; 
+    padding: 5px 30px;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
